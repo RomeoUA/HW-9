@@ -1,0 +1,35 @@
+h1 {
+    font-size: 34px;
+    font-weight: 900px;
+}
+.header {
+    color: goldenrod;
+}
+h2 {
+    font-size: 28px;
+    font-weight: 700px;
+}
+p,
+a {
+    font-size: 20px;
+    font-weight: 500;
+}
+.favorite {
+    color: blue;
+}
+.answer {
+    color: red;
+}
+.instagram {
+    color: black;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.why {
+    color: cadetblue;
+}
+.whynot {
+    color: brown;
+}
